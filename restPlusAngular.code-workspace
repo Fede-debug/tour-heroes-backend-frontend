@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "..\\Google Drive\\Documenti\\Java - Spring boot - Udemy\\5.DeepDiveWithSingleAPIPart2"
+		},
+		{
+			"path": "angular-tour-of-heroes-consuming-REST"
 		}
 	],
 	"settings": {}
